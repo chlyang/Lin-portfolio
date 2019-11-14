@@ -523,6 +523,47 @@ h5, h6          { font-weight: bolder }
     background-position: 50% 50%;
 }
 
+.top14{
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background: url('../img/top14.jpg') no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
+}
+
+.top15{
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background: url('../img/top15.jpg') no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
+}
+
+.top16{
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background: url('../img/top16.jpg') no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
+}
 .work_nav{
     display: block;
     width: 100%;
