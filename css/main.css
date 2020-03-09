@@ -564,6 +564,21 @@ h5, h6          { font-weight: bolder }
     -o-background-size: cover;
     background-position: 50% 50%;
 }
+
+
+.top17{
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background: url('../img/top17.jpg') no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
+}
 .work_nav{
     display: block;
     width: 100%;
